@@ -1,9 +1,12 @@
 # Kindle-Linux-Project
 Implementace linuxu na zařízení Amazon Kindle Touch.
 
-Autor: Temirmalik Bakrididnov
+Autor: Temirmalik Bakridinov
+
 Škola: SPŠE Ječná
+
 Obor: Informační technologie
+
 Ročník: 3.
 
 1. Účel projektu
