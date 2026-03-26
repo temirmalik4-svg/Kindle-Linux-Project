@@ -36,9 +36,9 @@ Systém: Příkazem uname -a jsem vypsal informace o Linuxovém jádře.
 /docs: Kompletní dokumentace k projektu.
 
 5. Licence
-6. 
+   
 Vlastní skripty jsou uvolněny pod licencí MIT. Použité nástroje (KUAL, KTerm) podléhají licenci GNU GPL v3.0.
 
-7. Video a Summary
-8. 
+6. Video a Summary
+
 Ukázka funkčnosti: video_ukazka.mp4
